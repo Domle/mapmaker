@@ -1,0 +1,83 @@
+ansi2html==1.6.0
+atomicwrites==1.4.0
+attrs==20.3.0
+backcall==0.2.0
+Brotli @ file:///D:/bld/brotli-split_1610110784919/work
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1605538112425/work
+cftime @ file:///D:/bld/cftime_1605566870063/work
+chardet @ file:///C:/ci/chardet_1605303225733/work
+chart-studio==1.1.0
+click==7.1.2
+colorama==0.4.4
+conda==4.9.2
+conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
+cryptography @ file:///C:/ci/cryptography_1605526388508/work
+dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1611245648458/work
+dash-bootstrap-components==0.11.3
+dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1611131211583/work
+dash-html-components @ file:///home/conda/feedstock_root/build_artifacts/dash-html-components_1611131203577/work
+dash-leaflet==0.1.13
+dash-renderer @ file:///home/conda/feedstock_root/build_artifacts/dash-renderer_1611094782021/work
+dash-table @ file:///home/conda/feedstock_root/build_artifacts/dash-table_1611131210372/work
+decorator==4.4.2
+Flask==1.1.2
+Flask-Compress @ file:///home/conda/feedstock_root/build_artifacts/flask-compress_1604422164145/work
+future @ file:///D:/bld/future_1610147454374/work
+GDAL==3.1.4
+geobuf==1.1.1
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+iniconfig==1.1.1
+ipykernel==5.4.3
+ipython==7.20.0
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi==0.18.0
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1612119311452/work
+jupyter-client==6.1.11
+jupyter-core==4.7.1
+jupyter-dash==0.4.0
+MarkupSafe @ file:///D:/bld/markupsafe_1610127683324/work
+menuinst==1.4.16
+netCDF4 @ file:///D:/bld/netcdf4_1608338650713/work
+numpy @ file:///D:/bld/numpy_1604946157939/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1607785313469/work
+pandas @ file:///D:/bld/pandas_1609079442959/work
+parso==0.8.1
+pickleshare==0.7.5
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1610471242275/work
+pluggy==0.13.1
+prompt-toolkit==3.0.16
+protobuf==3.14.0
+py==1.10.0
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.8.0
+pygmt @ file:///home/conda/feedstock_root/build_artifacts/pygmt_1605817699576/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytest==6.2.1
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1608904108784/work
+pywin32==227
+PyYAML==5.4.1
+pyzmq==22.0.3
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+retrying==1.3.3
+rpy2==3.4.1
+ruamel-yaml==0.15.87
+scipy==1.6.0
+six @ file:///C:/ci/six_1605187374963/work
+toml==0.10.2
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+traitlets==5.0.5
+tzlocal==2.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+wcwidth==0.2.5
+Werkzeug==1.0.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1606798576866/work
